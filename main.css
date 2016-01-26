@@ -1,0 +1,46 @@
+body{
+margin:0;
+padding:0;
+background-color:#EEEEEE;
+}
+
+
+.head {
+font-family: 'Open Sans', sans-serif;
+text-align:center;
+background-color: #6C7A89;
+padding:1%;
+color:#EEEEEE;
+}
+
+.mainbody {
+font-family: 'Open Sans', sans-serif;
+padding-left:2%;
+}
+
+.section {
+padding-left:5%;
+}
+
+ol {
+list-style-type: none;
+
+}
+
+li {
+padding-top:10px
+}
+
+a {
+text-decoration:none;
+color:black;
+color:#03C9A9;
+transition-property: color;
+transition-duration:.5s;
+}
+
+a:hover {
+color:#A2DED0;
+transition-property: color;
+transition-duration:.5s;
+}
